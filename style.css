@@ -1,23 +1,21 @@
 *{
     text-decoration : none;
     list-style: none;
-    background-color: #FFFBEB;
 }
 nav{
     display: flex;
     justify-content: space-between;
-    align-items: center; /* Alinha os itens verticalmente */
-    padding: 10px 20px; /* Adiciona espaçamento interno */
+    align-items: center;
+    margin : 0;
     background-color: #FF7043;
 }
-body{
-    background-color: #795548;
-}
 .cabecalho-lista {
+    background-color: #FF7043;
     display: flex;
     gap: 32px;
     color:#4CAF50;
-    background-color: #FF7043;
+    
+    
 }
 .contato{
     display: flex;
